@@ -29,7 +29,7 @@ Get up and running in just a few steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/neevlila/e-commerce.git
+   git clone https://github.com/hirendomadiya/e-commerce.git
    cd e-commerce
    ```
 
